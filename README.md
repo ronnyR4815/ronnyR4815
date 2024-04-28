@@ -12,10 +12,6 @@ para el siguiente colega:
 
 total_horas_perdidas_aqui = 189
 
-<form>
-  <submit>Hola nundo</submit>
-</form>
-
 <!--
 **ronnyR4815/ronnyR4815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
